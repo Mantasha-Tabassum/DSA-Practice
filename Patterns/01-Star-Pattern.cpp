@@ -53,6 +53,8 @@ int main()
 #include <iostream>
 using namespace std;
 
+//THIS IS THE CODE MAIN PART 
+
 void print1 (int n)
 {
    for (int i=0; i<n; i++)
@@ -64,6 +66,8 @@ void print1 (int n)
        cout << endl;
     }
 }
+
+// THIS ENDS HERE
 
 int main()
 {
