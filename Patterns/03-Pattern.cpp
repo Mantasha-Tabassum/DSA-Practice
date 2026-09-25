@@ -11,7 +11,6 @@
  
  int main()
  {
-  
     int n;
     cin >> n;
     
@@ -50,7 +49,6 @@ int main()
    int n;
    cin >> n;
    print1(n);
-
 }
 
 // ANOTHER WAY TO PRINT THE SAME PATTERN FOR MULTIPLE TEST CASES
