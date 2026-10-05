@@ -5,7 +5,7 @@
     E E E E E      */
 
 
-  // CODE OF THE PATTERN
+// CODE OF THE PATTERN
   
 #include <iostream>
 using namespace std;
